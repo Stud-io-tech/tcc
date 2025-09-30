@@ -1,0 +1,1 @@
+"inteligência artificial" AND "microempreendedores" AND (atendimento OR vendas OR suporte)"

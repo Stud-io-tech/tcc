@@ -1,0 +1,1 @@
+"mercado digital de alimentos" AND (delivery OR marketplaces) AND "crescimento"

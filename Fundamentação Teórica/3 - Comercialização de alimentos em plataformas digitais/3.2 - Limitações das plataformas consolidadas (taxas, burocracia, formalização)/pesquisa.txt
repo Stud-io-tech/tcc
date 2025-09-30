@@ -1,0 +1,1 @@
+"plataformas digitais" AND "alimentação" AND (taxas OR burocracia OR formalização)
