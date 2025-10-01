@@ -1,1 +1,1 @@
-"empreendedorismo informal" AND "setor alimentício" AND "cidades do interior"
+"informal" AND "alimentos" AND "cidades do interior"
