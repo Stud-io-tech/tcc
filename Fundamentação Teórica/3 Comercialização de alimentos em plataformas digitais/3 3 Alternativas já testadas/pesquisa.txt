@@ -1,1 +1,2 @@
-"aplicativos locais" AND "alimentação" AND "WhatsApp" AND "microempreendedores"
+"Alimentos" AND "instaDelivery"
+"Alimentos" AND "localfood"
