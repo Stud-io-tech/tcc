@@ -77,5 +77,28 @@ desvanecer-se no país por meio dos empreendimentos (DORNELAS, 2005, p. 17-27).
 ---------------------
 
 
-## Versão alternativa incentivada pelo chatgpt com o que ja possuo:
+## 1º Eixo — Empreendedorismo informal e microempreendedorismo
 
+### 1.1 Conceito e papel econômico-social
+
+#### Parágrafo 1:
+
+Apresente o conceito de empreendedorismo informal e microempreendedorismo — destaque o contexto brasileiro e por que isso é relevante em cidades pequenas.
+
+(Ex: “O empreendedorismo informal surge como alternativa de subsistência…”)
+
+#### Parágrafo 2:
+
+Traga autores que definem e explicam o papel econômico-social do empreendedorismo informal (ex.: SEBRAE, Dornelas, Jesus, 2024).
+
+Use citações sobre geração de renda, autonomia, informalidade, etc.
+
+#### Parágrafo 3:
+
+Relacione sua ideia: explique como isso se conecta ao seu projeto Capricha AÍ, mostrando que esses trabalhadores são parte do público que você quer apoiar.
+
+(Ex: “Nesse contexto, o aplicativo proposto busca valorizar…”)
+
+#### Parágrafo 4 (fechamento):
+
+Reforce a importância de fortalecer esse grupo e transite para o próximo subitem, que tratará dos desafios enfrentados.

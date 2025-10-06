@@ -1,1 +1,0 @@
-"inclusão digital" AND "barreiras" AND (infraestrutura OR custos OR capacitação) AND "cidades do interior"
