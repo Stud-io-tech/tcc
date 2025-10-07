@@ -102,3 +102,21 @@ Relacione sua ideia: explique como isso se conecta ao seu projeto Capricha AÍ, 
 #### Parágrafo 4 (fechamento):
 
 Reforce a importância de fortalecer esse grupo e transite para o próximo subitem, que tratará dos desafios enfrentados.
+
+------------------
+
+Começar explicando uma ideia.
+
+O empreendedorismo no Brasil constitui como um grande motor de desenvolvimento econômica e social, sendo o empreendedor o principal responsável pela transformação criativa e, por isso, precisa-se de atenção para especial compreender a importância desse papel na sociedade e analisar alternativas para fortalecer o crescimento inovador dentros dos negociantes de pequeno porte. Segundo SHUMPETER (1989:1):
+
+                            O empreendedor é o agente do processo de destruição criativa, que é o impulso
+                            fundamental que aciona e mantém em marcha o motor capitalista, constantemente
+                            criando novos produtos, novos métodos de produção, novos mercados e,
+                            implacavelmente, sobrepondo-se aos antigos métodos menos eficientes e mais caros.
+                            ( SHUMPETER apud DEGEN, 1989:1).
+
+No contexto brasileiro, o empreendedorismo passou a adquirir forma mais estruturada a partir da década de 1990, com a atuação de instituições como o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE) e a Sociedade Brasileira para Exportação de Software (SOFTEX), que surgiram em meio a um cenário político e econômico pouco favorável e com escassez de subsídios ao empreendedor (SHUMPETER apud DEGEN, 1989).
+
+Dentro desse panorama, destacam-se diferentes perfis de empreendedores, como o microempreendedor individual (MEI), caracterizado pela atuação autônoma e pela busca de estabilidade financeira dentro de limites legais e tributários específicos (TERRON; TERRON, [ano]), e o empreendedor informal, que, embora também almeje independência financeira, tende a permanecer à margem da formalização por não reconhecer ou possuí barreiras para conceber benefícios concretos nesse processo (TERRON; TERRON, [ano]).
+
+Outrossim, ... (começar falar sobre os desafios)
