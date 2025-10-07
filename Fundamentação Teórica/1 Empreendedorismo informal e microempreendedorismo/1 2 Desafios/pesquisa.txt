@@ -1,1 +1,0 @@
-"empreendedorismo informal" AND "desafios" AND (CNPJ OR crédito OR estigma OR exclusão digital)
